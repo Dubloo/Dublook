@@ -1,5 +1,5 @@
 # Dublook
 This is my first Git Repository
 <br>
-Author -  Ashish Chauhan
+Author -  Ashish kumar
 
